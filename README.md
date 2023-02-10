@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-product-review-component-using-html-and-css-8TBrpQ9g6-](https://www.frontendmentor.io/solutions/responsive-product-review-component-using-html-and-css-8TBrpQ9g6-)
+- Live Site URL: [https://product-preview-card-component-main-self-gamma.vercel.app/](https://product-preview-card-component-main-self-gamma.vercel.app/)
 
 ## My process
 
